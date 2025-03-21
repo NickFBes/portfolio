@@ -12,7 +12,7 @@
 
 .sobre-mim .imagem-sobre-mim img {
     border: 10px solid transparent;
-    border-radius: 5px;
+    border-radius: 20%;
 }
 
 .sobre-mim .informacoes-sobre-mim {    
@@ -29,6 +29,7 @@
     font-size: 1.8rem;
     font-weight: 300;
     margin-bottom: 20px;
+    font-family: var(--fonte-secundaria);
 }
 
 @media(max-width: 1280px) { 

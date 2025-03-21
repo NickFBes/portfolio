@@ -34,25 +34,25 @@
 
 .home .img-home .img-box img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 20%;
     border: 10px solid transparent;
 }
 
 .home .texto-home p {
-    font-family: var(--fonte-secundaria);
+    font-family: var(--fonte-primaria);
     font-size: var(--fonte-grande);
     margin-bottom: 10px;
 }
 
 .home .texto-home h1 {
-    font-family: var(--fonte-secundaria);
+    font-family: var(--fonte-primaria);
     font-size: var(--fonte-gigante);
     font-weight: 700;
     margin-bottom: 20px;
 }
 
 .home .texto-home h2 {
-    font-family: var(--fonte-secundaria);
+    font-family: var(--fonte-primaria);
     font-size: var(--fonte-grande);
     letter-spacing: 2px;
     margin-bottom: 30px;
